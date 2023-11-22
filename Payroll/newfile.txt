@@ -1,0 +1,10 @@
+Sophia,36,80000,Development
+Oliver,57,65000,Management
+Avery,18,55000,HR
+Lucas,83,72000,Testing
+Luna,51,85000,Management
+Ethan,2,74000,Development
+Ava,15,93000,Management
+User1,26,89540,HR
+User2, 45,822225,Development
+UserLast,22,77777,Management
